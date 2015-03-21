@@ -1,0 +1,22 @@
+
+
+12/05/2013 02:33:54 p.m.
+Compiled 11.06.12 1:44 a.m.
+Cannot load left predefined positions from file: LeftPositions.xml
+Cannot load right predefined positions from file: LeftPositions.xml
+Cannot load left predefined movements from file: LeftMovements.xml
+Cannot load right predefined movements from file: LeftMovements.xml
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Client Connected
+Client Connected
+Shared Vars Loading Error: No response from blackboard while requesting variable list (timeout?)
+Client Connected
+LeftArm: Position reached
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaCloseGrip: Received: ra_closegrip @1
+Cmd RaCloseGrip: Sent response: ra_closegrip 1 @1
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip 1
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1

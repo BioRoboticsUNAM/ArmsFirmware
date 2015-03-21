@@ -1,0 +1,419 @@
+
+
+12/06/2013 03:13:00 p.m.
+Compiled 11.06.12 1:44 a.m.
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Client Connected
+LeftArm: Position reached
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Shared variable batAlert created
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+RightArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+batAlert shared variable succesfully written
+Both arms reached predefined potition True
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+RightArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+Both arms reached predefined potition True
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Cmd RaReachable Received: ra_reachable "0.38 0.33 -0.10 1.57 0.29 0.00 -0.29"
+Cmd LaReachable Received: la_reachable "0.38 0.33 0.25 1.57 -0.64 0.00 0.64"
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+batAlert shared variable succesfully written
+RightArm: Position reached
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.243 -0.119 0.000 1.571 0.000 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.33 0.15 -0.06 1.57 0.22 0.00 -0.22"
+RightArm: Trying to reach articular position: { -0.5335, 0.0644, -0.2356, 1.9509, 0.1012, 0.1543, -0.1647 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.33 0.15 -0.06 1.57 0.22 0.00 -0.22" 1
+Cmd RaOpenGrip: Received: ra_opengrip "80"
+Cmd RaOpenGrip: Sent response: ra_opengrip "80" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.329 0.146 -0.059 1.570 0.220 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.34 0.16 -0.06 1.57 0.22 0.00 -0.22"
+RightArm: Trying to reach articular position: { -0.4952, 0.0644, -0.2354, 1.8966, 0.1032, 0.1714, -0.1573 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.34 0.16 -0.06 1.57 0.22 0.00 -0.22" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.339 0.156 -0.059 1.570 0.220 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.34 0.17 -0.06 1.57 0.23 0.00 -0.23"
+RightArm: Trying to reach articular position: { -0.4628, 0.0741, -0.2404, 1.8903, 0.1216, 0.1480, -0.1620 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.34 0.17 -0.06 1.57 0.23 0.00 -0.23" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.339 0.167 -0.059 1.570 0.230 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.35 0.19 -0.06 1.57 0.24 0.00 -0.24"
+RightArm: Trying to reach articular position: { -0.3937, 0.0827, -0.2461, 1.8232, 0.1252, 0.1497, -0.1431 }
+batAlert shared variable succesfully written
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.35 0.19 -0.06 1.57 0.24 0.00 -0.24" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.350 0.188 -0.059 1.570 0.240 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.36 0.21 -0.06 1.57 0.28 0.00 -0.28"
+RightArm: Trying to reach articular position: { -0.3195, 0.1177, -0.2702, 1.7504, 0.0833, 0.1588, -0.0584 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.36 0.21 -0.06 1.57 0.28 0.00 -0.28" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.360 0.209 -0.060 1.570 0.280 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.37 0.23 -0.07 1.57 0.31 0.00 -0.31"
+RightArm: Trying to reach articular position: { -0.2449, 0.1161, -0.3091, 1.6657, 0.1040, 0.1732, -0.0689 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.37 0.23 -0.07 1.57 0.31 0.00 -0.31" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.370 0.230 -0.070 1.570 0.310 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.37 0.25 -0.08 1.57 0.28 0.00 -0.28"
+RightArm: Trying to reach articular position: { -0.1909, 0.0636, -0.3079, 1.6235, 0.2283, 0.1514, -0.2235 }
+batAlert shared variable succesfully written
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.37 0.25 -0.08 1.57 0.28 0.00 -0.28" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.370 0.250 -0.080 1.570 0.280 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.38 0.27 -0.08 1.57 0.24 0.00 -0.24"
+RightArm: Trying to reach articular position: { -0.1355, 0.0252, -0.2819, 1.5283, 0.2346, 0.1844, -0.2442 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.38 0.27 -0.08 1.57 0.24 0.00 -0.24" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.380 0.271 -0.080 1.570 0.240 0.000 0.000" 1
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.380 0.271 -0.080 1.570 0.240 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.28 0.27 -0.08 1.57 0.31 0.00 -0.31"
+RightArm: Trying to reach articular position: { -0.1172, 0.0988, -0.3236, 2.0013, -0.0815, -0.2908, 0.1341 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.28 0.27 -0.08 1.57 0.31 0.00 -0.31" 1
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+batAlert shared variable succesfully written
+RightArm: Position reached
+Cmd RaReachable Received: ra_reachable "0.36 0.31 -0.45 1.57 0.96 0.00 -0.96"
+Cmd LaReachable Received: la_reachable "0.36 0.31 -0.10 1.57 0.30 0.00 -0.30"
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+LeftArm: Position reached
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.243 -0.119 0.000 1.571 0.000 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.33 0.13 -0.05 1.57 0.22 0.00 -0.22"
+LeftArm: Trying to reach articular position: { -0.5978, 0.0912, -0.2127, 1.9622, 0.0326, 0.2107, -0.0769 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.33 0.13 -0.05 1.57 0.22 0.00 -0.22" 1
+Cmd LaOpenGrip: Received: la_opengrip "80"
+Cmd LaAbsPos: Sent response: la_opengrip "80" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.329 0.126 -0.049 1.570 0.220 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.34 0.14 -0.05 1.57 0.25 0.00 -0.25"
+LeftArm: Trying to reach articular position: { -0.5525, 0.1202, -0.2282, 1.9121, 0.0306, 0.2219, -0.0490 }
+batAlert shared variable succesfully written
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.34 0.14 -0.05 1.57 0.25 0.00 -0.25" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.339 0.136 -0.049 1.570 0.250 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.35 0.15 -0.05 1.57 0.26 0.00 -0.26"
+LeftArm: Trying to reach articular position: { -0.5115, 0.1282, -0.2353, 1.8585, 0.0313, 0.2376, -0.0358 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.35 0.15 -0.05 1.57 0.26 0.00 -0.26" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.349 0.147 -0.049 1.570 0.260 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.35 0.17 -0.05 1.57 0.28 0.00 -0.28"
+LeftArm: Trying to reach articular position: { -0.4480, 0.1469, -0.2465, 1.8464, 0.0278, 0.1930, -0.0048 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.35 0.17 -0.05 1.57 0.28 0.00 -0.28" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.349 0.168 -0.049 1.570 0.280 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.36 0.19 -0.05 1.57 0.32 0.00 -0.32"
+LeftArm: Trying to reach articular position: { -0.3722, 0.1809, -0.2732, 1.7775, 0.0017, 0.1999, 0.0618 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.36 0.19 -0.05 1.57 0.32 0.00 -0.32" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.360 0.189 -0.050 1.570 0.320 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.37 0.21 -0.06 1.57 0.36 0.00 -0.36"
+LeftArm: Trying to reach articular position: { -0.2933, 0.1870, -0.3216, 1.6995, 0.0118, 0.2083, 0.0662 }
+batAlert shared variable succesfully written
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.37 0.21 -0.06 1.57 0.36 0.00 -0.36" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.370 0.210 -0.060 1.570 0.360 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.37 0.23 -0.07 1.57 0.34 0.00 -0.34"
+LeftArm: Trying to reach articular position: { -0.2374, 0.1425, -0.3281, 1.6661, 0.0726, 0.1745, -0.0162 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.37 0.23 -0.07 1.57 0.34 0.00 -0.34" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.370 0.230 -0.070 1.570 0.340 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.38 0.25 -0.08 1.57 0.31 0.00 -0.31"
+LeftArm: Trying to reach articular position: { -0.1779, 0.0868, -0.3280, 1.5720, 0.1447, 0.1957, -0.1180 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.38 0.25 -0.08 1.57 0.31 0.00 -0.31" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.380 0.250 -0.080 1.570 0.310 0.000 0.000" 1
+Cmd LaCloseGrip: Received: la_closegrip "80"
+batAlert shared variable succesfully written
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.380 0.250 -0.080 1.570 0.310 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.28 0.25 -0.43 1.57 0.26 0.00 -0.26"
+Invalid servo angles: Out of servo range
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.28 0.25 -0.43 1.57 0.26 0.00 -0.26" 0
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+LeftArm: Position reached
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "deliver"
+RightArm: Trying to reach articular position: { 0.3791, 0.0025, -0.2687, 1.0260, -0.2760, 0.4120, 0.2000 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip "100"
+Cmd RaOpenGrip: Sent response: ra_opengrip "100" 1
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+batAlert shared variable succesfully written
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip "20"
+Cmd RaOpenGrip: Sent response: ra_opengrip "20" 1
+Cmd LaCloseGrip: Received: la_closegrip
+Cmd LaAbsPos: Sent response: la_closegrip 1
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip 1
+Cmd ArmsGoTo: Received: arms_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+batAlert shared variable succesfully written
+Both arms reached predefined potition True
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+batAlert shared variable succesfully written
+LeftArm: Position reached
+Cmd LaGoTo: Received: la_goto "deliver"
+LeftArm: Trying to reach articular position: { 0.3557, -0.2056, 0.2022, 0.6543, 0.0333, 0.4786, -0.0793 }
+LeftArm: Position reached
+Cmd LaOpenGrip: Received: la_opengrip "100"
+Cmd LaAbsPos: Sent response: la_opengrip "100" 1
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+Can't read from serial port COM5 The operation has timed out.
+Cmd LaOpenGrip: Received: la_opengrip "20"
+Cmd LaAbsPos: Sent response: la_opengrip "20" 1
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+RightArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+Can't read from serial port COM6 The I/O operation has been aborted because of either a thread exit or an application request.
+
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written

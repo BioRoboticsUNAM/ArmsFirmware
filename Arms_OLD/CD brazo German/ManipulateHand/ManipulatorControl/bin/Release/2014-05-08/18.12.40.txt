@@ -1,0 +1,1155 @@
+
+
+08/05/2014 06:12:40 p.m.
+Compiled 11.06.12 1:44 a.m.
+Invalid servo angles: Out of servo range
+baila2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+baila3: Invalid X value. Out of work space
+newPredefPos3: Invalid Z value. Out of work space
+showArm: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+baila1: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+baila3: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+baila3: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+deliver: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+deliver: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+deliver: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+extended: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+extended: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+extended: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+hello: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hello1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hello1: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+hello1: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+hello2: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+hello2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hello2: Invalid Z value. Out of work space
+hipno: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hipno: Invalid Roll value. Out of work space
+hipnol: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hipnol: Invalid Roll value. Out of work space
+hipnor: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hipnor: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+newPredefPos16: Invalid X value. Out of work space
+newPredefPos17: Invalid X value. Out of work space
+newPredefPos18: Invalid X value. Out of work space
+newPredefPos19: Invalid X value. Out of work space
+newPredefPos20: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos21: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos21: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos21: Invalid Z value. Out of work space
+newPredefPos3: Invalid Roll value. Out of work space
+newPredefPos4: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos5: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos6: Invalid Yaw value. Out of work space
+pickbox: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+test1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+test1: Invalid Y value. Out of work space
+test2: Invalid Y value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Client Connected
+Client Connected
+LeftArm: Position reached
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Shared Vars Loading Error: No response from blackboard while requesting variable list (timeout?)
+Client Connected
+RightArm: Position reached
+Cmd RaReachable Received: ra_reachable "0.32 0.44 -0.12 1.57 0.26 0.00 -0.26"
+Cmd LaReachable Received: la_reachable "0.32 0.44 0.23 1.57 -0.49 0.00 0.49"
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.243 -0.119 0.000 1.571 0.000 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.36 0.26 -0.08 1.57 0.20 0.00 -0.20"
+RightArm: Trying to reach articular position: { -0.1828, -0.0064, -0.2590, 1.6502, 0.5035, 0.1116, -0.5534 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.36 0.26 -0.08 1.57 0.20 0.00 -0.20" 1
+Cmd RaOpenGrip: Received: ra_opengrip "100"
+Cmd RaOpenGrip: Sent response: ra_opengrip "100" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.360 0.259 -0.080 1.570 0.200 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.37 0.30 -0.09 1.57 0.19 0.00 -0.19"
+RightArm: Trying to reach articular position: { -0.0598, -0.0413, -0.2634, 1.4972, 0.5208, 0.1425, -0.5717 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.37 0.30 -0.09 1.57 0.19 0.00 -0.19" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.370 0.301 -0.090 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.38 0.34 -0.10 1.57 0.18 0.00 -0.18"
+RightArm: Trying to reach articular position: { 0.0647, -0.0766, -0.2620, 1.3156, 0.4586, 0.1968, -0.5080 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.38 0.34 -0.10 1.57 0.18 0.00 -0.18" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.380 0.342 -0.101 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.39 0.38 -0.11 1.57 0.15 0.00 -0.15"
+RightArm: Trying to reach articular position: { 0.1934, -0.1275, -0.2376, 1.0950, 0.3930, 0.2855, -0.4549 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.39 0.38 -0.11 1.57 0.15 0.00 -0.15" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.391 0.382 -0.111 1.570 0.150 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.41 0.42 -0.11 1.57 0.08 0.00 -0.08"
+RightArm: Trying to reach articular position: { 0.3486, -0.1813, -0.1511, 0.7528, 0.2759, 0.4729, -0.3641 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.41 0.42 -0.11 1.57 0.08 0.00 -0.08" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.411 0.422 -0.110 1.570 0.080 0.000 0.000" 1
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip "True" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.411 0.422 -0.110 1.570 0.080 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.26 0.42 0.00 1.57 0.00 0.00 0.00"
+RightArm: Trying to reach articular position: { 0.2917, 0.0000, 0.0000, 1.6183, 0.0000, -0.3400, 0.0000 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.26 0.42 0.00 1.57 0.00 0.00 0.00" 1
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd LaOpenGrip: Received: la_opengrip
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_opengrip 0
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd RaReachable Received: ra_reachable "0.50 0.48 -0.43 1.57 0.72 0.00 -0.72"
+Cmd LaReachable Received: la_reachable "0.50 0.48 -0.08 1.57 0.16 0.00 -0.16"
+Cmd RaReachable Received: ra_reachable "0.48 0.45 0.10 1.57 -0.23 0.00 0.23"
+Cmd LaReachable Received: la_reachable "0.48 0.45 0.45 1.57 -0.79 0.00 0.79"
+Cmd RaReachable Received: ra_reachable "0.41 0.45 -0.08 1.57 0.17 0.00 -0.17"
+Cmd LaReachable Received: la_reachable "0.41 0.45 0.27 1.57 -0.55 0.00 0.55"
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.243 -0.119 0.000 1.571 0.000 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.42 0.27 -0.05 1.57 0.14 0.00 -0.14"
+RightArm: Trying to reach articular position: { -0.1211, 0.0025, -0.1682, 1.3154, 0.0743, 0.3759, -0.0868 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.42 0.27 -0.05 1.57 0.14 0.00 -0.14" 1
+Cmd RaOpenGrip: Received: ra_opengrip "100"
+Cmd RaOpenGrip: Sent response: ra_opengrip "100" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.421 0.272 -0.050 1.570 0.140 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.44 0.31 -0.06 1.57 0.16 0.00 -0.16"
+RightArm: Trying to reach articular position: { 0.0225, -0.0138, -0.1936, 1.0781, 0.0750, 0.4686, -0.0759 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.44 0.31 -0.06 1.57 0.16 0.00 -0.16" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.441 0.312 -0.060 1.570 0.160 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.46 0.35 -0.06 1.57 0.13 0.00 -0.13"
+RightArm: Trying to reach articular position: { 0.1782, -0.0472, -0.1627, 0.7783, 0.0673, 0.6099, -0.0722 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.46 0.35 -0.06 1.57 0.13 0.00 -0.13" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.352 -0.060 1.570 0.130 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.48 0.39 -0.07 1.57 0.19 0.00 -0.19"
+RightArm: Trying to reach articular position: { 0.4278, -0.0751, -0.2134, 0.2360, 0.0447, 0.9003, -0.0064 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.48 0.39 -0.07 1.57 0.19 0.00 -0.19" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.49 0.43 -0.08 1.57 0.14 0.00 -0.14" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip "True" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.390 -0.070 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.33 0.39 0.00 1.57 0.00 0.00 0.00"
+RightArm: Trying to reach articular position: { 0.1717, 0.0000, 0.0000, 1.4479, 0.0000, -0.0497, 0.0000 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.33 0.39 0.00 1.57 0.00 0.00 0.00" 1
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd RaReachable Received: ra_reachable "0.42 0.47 -0.12 1.57 0.24 0.00 -0.24"
+Cmd LaReachable Received: la_reachable "0.42 0.47 0.23 1.57 -0.46 0.00 0.46"
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.243 -0.119 0.000 1.571 0.000 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.42 0.29 -0.08 1.57 0.19 0.00 -0.19"
+RightArm: Trying to reach articular position: { -0.0520, -0.0271, -0.2421, 1.2490, 0.1400, 0.3702, -0.1692 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.42 0.29 -0.08 1.57 0.19 0.00 -0.19" 1
+Cmd RaOpenGrip: Received: ra_opengrip "100"
+Cmd RaOpenGrip: Sent response: ra_opengrip "100" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.421 0.292 -0.081 1.570 0.190 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.44 0.33 -0.09 1.57 0.20 0.00 -0.20"
+RightArm: Trying to reach articular position: { 0.0950, -0.0553, -0.2542, 0.9870, 0.1261, 0.4821, -0.1411 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.44 0.33 -0.09 1.57 0.20 0.00 -0.20" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.441 0.332 -0.091 1.570 0.200 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.46 0.37 -0.10 1.57 0.18 0.00 -0.18"
+RightArm: Trying to reach articular position: { 0.2694, -0.1110, -0.2299, 0.6263, 0.1159, 0.6624, -0.1348 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.46 0.37 -0.10 1.57 0.18 0.00 -0.18" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.41 -0.11 1.57 0.16 0.00 -0.16" 0
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip "True" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.371 -0.100 1.570 0.180 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.31 0.37 0.00 1.57 0.00 0.00 0.00"
+RightArm: Trying to reach articular position: { 0.1156, 0.0000, 0.0000, 1.6114, 0.0000, -0.1570, 0.0000 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.31 0.37 0.00 1.57 0.00 0.00 0.00" 1
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaReachable Received: ra_reachable "0.40 0.43 -0.28 1.57 0.58 0.00 -0.58"
+Cmd LaReachable Received: la_reachable "0.40 0.43 0.07 1.57 -0.16 0.00 0.16"
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+LeftArm: Position reached
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.243 -0.119 0.000 1.571 0.000 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.42 0.25 0.05 1.57 -0.12 0.00 0.12"
+LeftArm: Trying to reach articular position: { -0.1786, 0.0124, 0.1539, 1.3552, -0.0770, 0.3918, 0.1104 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.42 0.25 0.05 1.57 -0.12 0.00 0.12" 1
+Cmd LaOpenGrip: Received: la_opengrip "80"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_opengrip "80" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.421 0.252 0.050 1.570 -0.120 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.44 0.29 0.05 1.57 -0.11 0.00 0.11"
+LeftArm: Trying to reach articular position: { -0.0413, 0.0259, 0.1430, 1.1384, -0.0704, 0.4708, 0.0942 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.44 0.29 0.05 1.57 -0.11 0.00 0.11" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.441 0.292 0.050 1.570 -0.110 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.46 0.33 0.05 1.57 -0.14 0.00 0.14"
+LeftArm: Trying to reach articular position: { 0.1125, 0.0162, 0.1656, 0.8680, -0.0475, 0.5889, 0.0367 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.46 0.33 0.05 1.57 -0.14 0.00 0.14" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.461 0.332 0.050 1.570 -0.140 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.48 0.37 0.06 1.57 -0.19 0.00 0.19"
+LeftArm: Trying to reach articular position: { 0.3157, 0.0369, 0.2152, 0.4540, -0.0362, 0.7993, -0.0070 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.48 0.37 0.06 1.57 -0.19 0.00 0.19" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaCloseGrip: Received: la_closegrip "80"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.33 0.37 0.00 1.57 0.00 0.00 0.00"
+LeftArm: Trying to reach articular position: { 0.1119, 0.0000, 0.0000, 1.5214, 0.0000, -0.0633, 0.0000 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.33 0.37 0.00 1.57 0.00 0.00 0.00" 1
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+LeftArm: Position reached
+Cmd RaReachable Received: ra_reachable "0.46 0.44 -0.50 1.57 0.85 0.00 -0.85"
+Cmd LaReachable Received: la_reachable "0.46 0.44 -0.15 1.57 0.33 0.00 -0.33"
+Cmd RaReachable Received: ra_reachable "0.40 0.43 -0.28 1.57 0.58 0.00 -0.58"
+Cmd LaReachable Received: la_reachable "0.40 0.43 0.07 1.57 -0.16 0.00 0.16"
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+LeftArm: Position reached
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.243 -0.119 0.000 1.571 0.000 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.42 0.25 0.05 1.57 -0.12 0.00 0.12"
+LeftArm: Trying to reach articular position: { -0.1786, 0.0124, 0.1539, 1.3552, -0.0770, 0.3918, 0.1104 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.42 0.25 0.05 1.57 -0.12 0.00 0.12" 1
+Cmd LaOpenGrip: Received: la_opengrip "80"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_opengrip "80" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.421 0.252 0.050 1.570 -0.120 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.44 0.29 0.05 1.57 -0.11 0.00 0.11"
+LeftArm: Trying to reach articular position: { -0.0413, 0.0259, 0.1430, 1.1384, -0.0704, 0.4708, 0.0942 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.44 0.29 0.05 1.57 -0.11 0.00 0.11" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.441 0.292 0.050 1.570 -0.110 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.46 0.33 0.05 1.57 -0.14 0.00 0.14"
+LeftArm: Trying to reach articular position: { 0.1125, 0.0162, 0.1656, 0.8680, -0.0475, 0.5889, 0.0367 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.46 0.33 0.05 1.57 -0.14 0.00 0.14" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.461 0.332 0.050 1.570 -0.140 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.48 0.37 0.06 1.57 -0.19 0.00 0.19"
+LeftArm: Trying to reach articular position: { 0.3157, 0.0369, 0.2152, 0.4540, -0.0362, 0.7993, -0.0070 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.48 0.37 0.06 1.57 -0.19 0.00 0.19" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.49 0.41 0.07 1.57 -0.15 0.00 0.15" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaCloseGrip: Received: la_closegrip "80"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.481 0.371 0.060 1.570 -0.190 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.33 0.37 0.00 1.57 0.00 0.00 0.00"
+LeftArm: Trying to reach articular position: { 0.1119, 0.0000, 0.0000, 1.5214, 0.0000, -0.0633, 0.0000 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.33 0.37 0.00 1.57 0.00 0.00 0.00" 1
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+LeftArm: Position reached
+Cmd RaReachable Received: ra_reachable "0.46 0.44 -0.50 1.57 0.85 0.00 -0.85"
+Cmd LaReachable Received: la_reachable "0.46 0.44 -0.15 1.57 0.33 0.00 -0.33"
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd LaOpenGrip: Received: la_opengrip
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_opengrip 0
+Cmd LaOpenGrip: Received: la_opengrip "100"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_opengrip "100" 0
+Cmd LaCloseGrip: Received: la_closegrip
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_closegrip "True" 0
+Cmd LaOpenGrip: Received: la_opengrip
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_opengrip 0
+Cmd LaCloseGrip: Received: la_closegrip
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_closegrip "True" 0
+Cmd LaOpenGrip: Received: la_opengrip "100"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_opengrip "100" 0
+Cmd LaOpenGrip: Received: la_opengrip "100"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_opengrip "100" 0

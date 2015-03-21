@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <port>2090</port>
+  <com>COM8</com>
+  <baud>250000</baud>
+  <idtilt>1</idtilt>
+  <idpan>5</idpan>
+  <servoPan>RX64</servoPan>
+  <servoTilt>RX64</servoTilt>
+  <zeroTilt>90</zeroTilt>
+  <zeroPan>98</zeroPan>
+  <maxSpeedPerc>40</maxSpeedPerc>
+</Settings>

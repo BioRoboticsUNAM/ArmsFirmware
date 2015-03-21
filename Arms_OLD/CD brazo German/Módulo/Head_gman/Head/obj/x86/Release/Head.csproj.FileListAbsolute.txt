@@ -1,0 +1,13 @@
+Z:\RoboCup\SourceCode\BetaTest\Head\Head\bin\Release\Head.exe
+Z:\RoboCup\SourceCode\BetaTest\Head\Head\bin\Release\Head.pdb
+Z:\RoboCup\SourceCode\BetaTest\Head\Head\bin\Release\Robotics.dll
+Z:\RoboCup\SourceCode\BetaTest\Head\Head\bin\Release\Robotics.xml
+Z:\RoboCup\SourceCode\BetaTest\Head\Head\obj\x86\Release\ResolveAssemblyReference.cache
+Z:\RoboCup\SourceCode\BetaTest\Head\Head\obj\x86\Release\Head.frmHead.resources
+Z:\RoboCup\SourceCode\BetaTest\Head\Head\obj\x86\Release\Head.Properties.Resources.resources
+Z:\RoboCup\SourceCode\BetaTest\Head\Head\obj\x86\Release\GenerateResource.read.1.tlog
+Z:\RoboCup\SourceCode\BetaTest\Head\Head\obj\x86\Release\GenerateResource.write.1.tlog
+Z:\RoboCup\SourceCode\BetaTest\Head\Head\obj\x86\Release\Head.exe
+Z:\RoboCup\SourceCode\BetaTest\Head\Head\obj\x86\Release\Head.pdb
+D:\Documentos\Trabajos\2013_2\Servicio\Head\Head\obj\x86\Release\Head.exe
+D:\Documentos\Trabajos\2013_2\Servicio\Head\Head\obj\x86\Release\Head.pdb

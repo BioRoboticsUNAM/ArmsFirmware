@@ -1,0 +1,266 @@
+
+
+12/06/2013 01:23:49 p.m.
+Compiled 11.06.12 1:44 a.m.
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Client Connected
+LeftArm: Position reached
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Shared variable batAlert created
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Cmd LaArtPos: Received: la_artpos "0.32 0.61 0.37 1.42 0.22 1.44 0.00"
+LeftArm: Trying to reach articular position: { 0.3200, 0.6100, 0.3700, 1.4200, 0.2200, 1.4400, 0.0000 }
+LeftArm: Position reached
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Cmd ArmsGoTo: Received: arms_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+Both arms reached predefined potition True
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+batAlert shared variable succesfully written
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Cmd RaArtPos: Received: ra_artpos "0.36 0.61 -0.52 1.26 -0.02 -1.68 0.00"
+RightArm: Trying to reach articular position: { 0.3600, 0.6100, -0.5200, 1.2600, -0.0200, -1.6800, 0.0000 }
+Can't read from serial port COM6 The I/O operation has been aborted because of either a thread exit or an application request.
+
+batAlert shared variable succesfully written
+Can't read from serial port COM6 The operation has timed out.
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Cmd LaAbsPos: Received: la_abspos "0.34 0.61 0.59 1.42 0.22 1.44 0.00"
+Cmd RaAbsPos: Received: ra_abspos "0.77 0.61 -0.39 1.42 0.22 1.44 0.00"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.34 0.61 0.59 1.42 0.22 1.44 0.00" 0
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.77 0.61 -0.39 1.42 0.22 1.44 0.00" 0
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Cmd ArmsGoTo: Received: arms_goto "home"
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The I/O operation has been aborted because of either a thread exit or an application request.
+
+batAlert shared variable succesfully written
+Can't read from serial port COM6 The operation has timed out.
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Can't read from serial port COM5 The I/O operation has been aborted because of either a thread exit or an application request.
+
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Can't read from serial port COM6 The operation has timed out.
+Can't read from serial port COM5 The operation has timed out.
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Cmd ArmsGoTo: Received: arms_goto "home"
+Cmd ArmsGoTo: Arms busy executing another command

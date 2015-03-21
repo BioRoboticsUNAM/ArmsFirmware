@@ -1,0 +1,102 @@
+
+
+06/06/2013 07:48:18 p.m.
+HeadManager: Succesfully loaded settings from file
+Serial Port Manager: Erase Buffer error [Serial Port is not Ready]
+HeadManager: Client connected PORT 2090
+Head: Initialization completed succesfully...
+TaskManager: Succesfully started
+Shared Variable hd_pos created succsfully
+HeadManager: Succesfully started
+Shared Variable hd_pos created succsfully
+Execution Started 2013-06-06 19:48:19
+Command LookAt received   hd_lookat "-1 0" @1
+Head: Moving to -1 0
+Head Manager: Shared variable succesfully written -1 0
+TaskManager: Setting LookAtPosition -1.00 0.00
+Sending Response   hd_lookat "-1 0" 1 @1
+Command LookAt received   hd_lookat "1 0" @1
+Head: Moving to 1 0
+Head Manager: Shared variable succesfully written 1 0
+TaskManager: Setting LookAtPosition 1.00 0.00
+Sending Response   hd_lookat "1 0" 1 @1
+Command LookAt received   hd_lookat "0.5 0" @1
+Head: Moving to 0.5 0
+Head Manager: Shared variable succesfully written 0.5 0
+TaskManager: Setting LookAtPosition 0.50 0.00
+Sending Response   hd_lookat "0.5 0" 1 @1
+Command LookAt received   hd_lookat "0.3 0" @1
+Head: Moving to 0.3 0
+Head Manager: Shared variable succesfully written 0.3 0
+TaskManager: Setting LookAtPosition 0.30 0.00
+Sending Response   hd_lookat "0.3 0" 1 @1
+Command LookAt received   hd_lookat "0 0" @1
+Head: Moving to 0 0
+Head Manager: Shared variable succesfully written 0 0
+TaskManager: Setting LookAtPosition 0.00 0.00
+Sending Response   hd_lookat "0 0" 1 @1
+Command LookAt received   hd_lookat "0.3 0" @1
+Head: Moving to 0.3 0
+Head Manager: Shared variable succesfully written 0.3 0
+TaskManager: Setting LookAtPosition 0.30 0.00
+Sending Response   hd_lookat "0.3 0" 1 @1
+Command LookAt received   hd_lookat "0 0" @1
+Head: Moving to 0 0
+Head Manager: Shared variable succesfully written 0 0
+TaskManager: Setting LookAtPosition 0.00 0.00
+Sending Response   hd_lookat "0 0" 1 @1
+Command LookAt received   hd_lookat "-1 0" @1
+Head: Moving to -1 0
+Head Manager: Shared variable succesfully written -1 0
+TaskManager: Setting LookAtPosition -1.00 0.00
+Sending Response   hd_lookat "-1 0" 1 @1
+Command LookAt received   hd_lookat "1 0" @1
+Head: Moving to 1 0
+Head Manager: Shared variable succesfully written 1 0
+TaskManager: Setting LookAtPosition 1.00 0.00
+Sending Response   hd_lookat "1 0" 1 @1
+Command LookAt received   hd_lookat "0 0" @1
+Head: Moving to 0 0
+Head Manager: Shared variable succesfully written 0 0
+TaskManager: Setting LookAtPosition 0.00 0.00
+Sending Response   hd_lookat "0 0" 1 @1
+Command LookAt received   hd_lookat "0.2 0" @1
+Head: Moving to 0.2 0
+Head Manager: Shared variable succesfully written 0.2 0
+TaskManager: Setting LookAtPosition 0.20 0.00
+Sending Response   hd_lookat "0.2 0" 1 @1
+Command LookAt received   hd_lookat "0 0" @1
+Head: Moving to 0 0
+Head Manager: Shared variable succesfully written 0 0
+TaskManager: Setting LookAtPosition 0.00 0.00
+Sending Response   hd_lookat "0 0" 1 @1
+Command LookAtRel received   hd_lookatrel "0.2 0" @1
+Head: Moving to 0.2 0
+Head Manager: Shared variable succesfully written 0.2 0
+TaskManager: Setting LookAtRelPosition 0.20 0.00Absolute position 0.2 0
+Sending Response   hd_lookatrel "0.2 0" 1 @1
+Command LookAtRel received   hd_lookatrel "0.2 0" @1
+Head: Moving to 0.4 0
+Head Manager: Shared variable succesfully written 0.4 0
+TaskManager: Setting LookAtRelPosition 0.20 0.00Absolute position 0.4 0
+Sending Response   hd_lookatrel "0.2 0" 1 @1
+Command LookAtRel received   hd_lookatrel "0.2 0" @1
+Head: Moving to 0.6 0
+Head Manager: Shared variable succesfully written 0.6 0
+TaskManager: Setting LookAtRelPosition 0.20 0.00Absolute position 0.6 0
+Sending Response   hd_lookatrel "0.2 0" 1 @1
+Command LookAt received   hd_lookat "1 0 100" @1
+Head: Moving to 1 0
+Head Manager: Shared variable succesfully written 1 0
+TaskManager: Setting LookAtPositionSpeed 1.00 0.00 100
+Sending Response   hd_lookat "1 0 100" 1 @1
+Command LookAt received   hd_lookat "-1 0 100" @1
+Head: Moving to -1 0
+Head Manager: Shared variable succesfully written -1 0
+TaskManager: Setting LookAtPositionSpeed -1.00 0.00 100
+Sending Response   hd_lookat "-1 0 100" 1 @1
+Command LookAt received   hd_lookat "1 0" @1
+Head: Moving to 1 0
+Head Manager: Shared variable succesfully written 1 0
+TaskManager: Setting LookAtPosition 1.00 0.00
+Sending Response   hd_lookat "1 0" 1 @1

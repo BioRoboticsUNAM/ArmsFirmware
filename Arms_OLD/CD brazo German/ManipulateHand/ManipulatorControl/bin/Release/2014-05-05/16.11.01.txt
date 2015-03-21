@@ -1,0 +1,236 @@
+
+
+05/05/2014 04:11:01 p.m.
+Compiled 11.06.12 1:44 a.m.
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+extended: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+extended: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+extended: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+hello: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hello1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hello1: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+hello1: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+hello2: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+hello2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hello2: Invalid Z value. Out of work space
+hipno: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hipno: Invalid Roll value. Out of work space
+hipnol: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hipnol: Invalid Roll value. Out of work space
+hipnor: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hipnor: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+newPredefPos16: Invalid X value. Out of work space
+newPredefPos17: Invalid X value. Out of work space
+newPredefPos18: Invalid X value. Out of work space
+newPredefPos19: Invalid X value. Out of work space
+newPredefPos20: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos21: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos21: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos21: Invalid Z value. Out of work space
+newPredefPos3: Invalid Roll value. Out of work space
+newPredefPos4: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos5: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos6: Invalid Yaw value. Out of work space
+pickbox: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+test1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+test1: Invalid Y value. Out of work space
+test2: Invalid Y value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Client Connected
+LeftArm: Position reached
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.8292, 0.0000, 0.0000, 1.8298, 0.0000, -0.0505, 0.0000 }
+RightArm: Trying to reach articular position: { -0.8475, 0.0000, 0.0000, 1.8792, 0.0000, 0.0817, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.8292, 0.0000, 0.0000, 1.8298, 0.0000, -0.0505, 0.0000 }
+RightArm: Trying to reach articular position: { -0.8475, 0.0000, 0.0000, 1.8792, 0.0000, 0.0817, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.8292, 0.0000, 0.0000, 1.8298, 0.0000, -0.0505, 0.0000 }
+RightArm: Trying to reach articular position: { -0.8475, 0.0000, 0.0000, 1.8792, 0.0000, 0.0817, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.8292, 0.0000, 0.0000, 1.8298, 0.0000, -0.0505, 0.0000 }
+RightArm: Trying to reach articular position: { -0.8475, 0.0000, 0.0000, 1.8792, 0.0000, 0.0817, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.8292, 0.0000, 0.0000, 1.8298, 0.0000, -0.0505, 0.0000 }
+RightArm: Trying to reach articular position: { -0.8475, 0.0000, 0.0000, 1.8792, 0.0000, 0.0817, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.8292, 0.0000, 0.0000, 1.8298, 0.0000, -0.0505, 0.0000 }
+RightArm: Trying to reach articular position: { -0.8475, 0.0000, 0.0000, 1.8792, 0.0000, 0.0817, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.8292, 0.0000, 0.0000, 1.8298, 0.0000, -0.0505, 0.0000 }
+RightArm: Trying to reach articular position: { -0.8475, 0.0000, 0.0000, 1.8792, 0.0000, 0.0817, 0.0000 }
+Both arms reached predefined potition True
+Cmd RaReachable Received: ra_reachable "0.27 0.31 -0.32 1.57 0.79 0.00 -0.79"
+Cmd LaReachable Received: la_reachable "0.27 0.31 0.03 1.57 -0.11 0.00 0.11"
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+LeftArm: Position reached
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.243 -0.119 0.000 1.571 0.000 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.32 0.12 0.02 1.57 -0.08 0.00 0.08"
+LeftArm: Trying to reach articular position: { -0.6620, -0.0291, 0.0810, 2.0131, -0.0082, 0.2190, 0.0348 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.32 0.12 0.02 1.57 -0.08 0.00 0.08" 1
+Cmd LaOpenGrip: Received: la_opengrip "80"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_opengrip "80" 0
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.319 0.114 0.019 1.570 -0.080 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.33 0.15 0.02 1.57 -0.08 0.00 0.08"
+LeftArm: Trying to reach articular position: { -0.5596, -0.0291, 0.0811, 1.9582, -0.0243, 0.1720, 0.0423 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.33 0.15 0.02 1.57 -0.08 0.00 0.08" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.329 0.145 0.020 1.570 -0.080 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.34 0.18 0.02 1.57 -0.09 0.00 0.09"
+LeftArm: Trying to reach articular position: { -0.4591, -0.0388, 0.0860, 1.8898, -0.0305, 0.1409, 0.0335 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.34 0.18 0.02 1.57 -0.09 0.00 0.09" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.339 0.176 0.020 1.570 -0.090 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.35 0.21 0.02 1.57 -0.11 0.00 0.11"
+LeftArm: Trying to reach articular position: { -0.3601, -0.0573, 0.0971, 1.8081, -0.0087, 0.1259, -0.0106 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.35 0.21 0.02 1.57 -0.11 0.00 0.11" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.350 0.207 0.020 1.570 -0.110 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.35 0.24 0.05 1.57 -0.77 0.00 0.77"
+LeftArm: Trying to reach articular position: { -0.0511, -0.5545, 0.6089, 1.7047, 0.2168, 0.2816, -0.6236 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.35 0.24 0.05 1.57 -0.77 0.00 0.77" 1
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.350 0.241 0.051 1.570 -0.770 0.000 0.000" 1
+Cmd LaCloseGrip: Received: la_closegrip "80"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.350 0.241 0.051 1.570 -0.770 0.000 0.000" 1
+Cmd LaAbsPos: Received: la_abspos "0.20 0.24 0.00 1.57 0.00 0.00 0.00"
+LeftArm: Trying to reach articular position: { -0.1605, 0.0000, 0.0000, 2.4089, 0.0000, -0.6783, 0.0000 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.20 0.24 0.00 1.57 0.00 0.00 0.00" 1
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+LeftArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd LaOpenGrip: Received: la_opengrip "100"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_opengrip "100" 0
+Cmd LaOpenGrip: Received: la_opengrip "100"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_opengrip "100" 0
+Cmd LaCloseGrip: Received: la_closegrip "100"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Client Connected

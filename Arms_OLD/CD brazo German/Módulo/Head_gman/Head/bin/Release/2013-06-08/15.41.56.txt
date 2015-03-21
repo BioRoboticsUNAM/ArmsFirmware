@@ -1,0 +1,30 @@
+
+
+08/06/2013 03:41:56 p.m.
+Execution Started 2013-06-08 15:41:56
+HeadManager: Succesfully loaded settings from file
+Serial Port Manager: Erase Buffer error [Serial Port is not Ready]
+HeadManager: Client connected PORT 2090
+Head: Initialization completed succesfully...
+TaskManager: Succesfully started
+Shared Variable hd_pos created succsfully
+HeadManager: Succesfully started
+Shared Variable hd_pos created succsfully
+Head: Moving to 1 0
+Head Manager: Shared variable succesfully written 1 0
+TaskManager: Succesful LookAtPositionSpeed 1.00 0.00 20
+Head: Moving to -1 0
+Head Manager: Shared variable succesfully written -1 0
+TaskManager: Succesful LookAtPositionSpeed -1.00 0.00 20
+Head: Moving to 1 0
+Head Manager: Shared variable succesfully written 1 0
+TaskManager: Succesful LookAtPositionSpeed 1.00 0.00 20
+Head: Moving to -1 0
+Head Manager: Shared variable succesfully written -1 0
+TaskManager: Succesful LookAtPositionSpeed -1.00 0.00 100
+Head: Moving to 1 0
+Head Manager: Shared variable succesfully written 1 0
+TaskManager: Succesful LookAtPositionSpeed 1.00 0.00 100
+Head: Moving to -1 0
+Head Manager: Shared variable succesfully written -1 0
+TaskManager: Succesful LookAtPosition -1.00 0.00

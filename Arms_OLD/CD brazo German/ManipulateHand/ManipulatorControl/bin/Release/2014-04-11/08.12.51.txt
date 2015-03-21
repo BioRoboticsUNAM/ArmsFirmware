@@ -1,0 +1,1013 @@
+
+
+11/04/2014 08:12:51 a.m.
+Compiled 11.06.12 1:44 a.m.
+Invalid servo angles: Out of servo range
+entrenamiento1: Invalid Y value. Out of work space
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+Invalid servo angles: Out of servo range
+showLaser: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+deliver: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+deliver: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+deliver: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+extended: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+extended: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+extended: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+hipno: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hipno: Invalid Roll value. Out of work space
+hipnol: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hipnol: Invalid Roll value. Out of work space
+hipnor: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hipnor: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+newPredefPos1: Invalid X value. Out of work space
+newPredefPos10: Invalid X value. Out of work space
+newPredefPos3: Invalid Roll value. Out of work space
+newPredefPos4: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos5: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos6: Invalid Yaw value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+test1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+test1: Invalid Y value. Out of work space
+test2: Invalid Y value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Client Connected
+LeftArm: Position reached
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+Both arms reached predefined potition True
+Cmd LaGoTo: Received: la_goto "pointtray"
+LeftArm: Trying to reach articular position: { -0.2218, -0.6189, 0.7140, 1.4083, 0.2943, 1.6404, -0.6014 }
+LeftArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+Both arms reached predefined potition True
+Cmd LaGoTo: Received: la_goto "pointtray"
+LeftArm: Trying to reach articular position: { -0.2218, -0.6189, 0.7140, 1.4083, 0.2943, 1.6404, -0.6014 }
+LeftArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+Both arms reached predefined potition True
+Cmd LaGoTo: Received: la_goto "pointtray"
+LeftArm: Trying to reach articular position: { -0.2218, -0.6189, 0.7140, 1.4083, 0.2943, 1.6404, -0.6014 }
+LeftArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+Both arms reached predefined potition True
+Cmd LaGoTo: Received: la_goto "pointtray"
+LeftArm: Trying to reach articular position: { -0.2218, -0.6189, 0.7140, 1.4083, 0.2943, 1.6404, -0.6014 }
+LeftArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+Both arms reached predefined potition True
+Cmd LaGoTo: Received: la_goto "pointtray"
+LeftArm: Trying to reach articular position: { -0.2218, -0.6189, 0.7140, 1.4083, 0.2943, 1.6404, -0.6014 }
+LeftArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+Both arms reached predefined potition True
+Cmd LaGoTo: Received: la_goto "pointtray"
+LeftArm: Trying to reach articular position: { -0.2218, -0.6189, 0.7140, 1.4083, 0.2943, 1.6404, -0.6014 }
+LeftArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "baila1"
+TaskPlanner: Can't find predefined position for left arm : "baila1"
+Cmd ArmsGoTo: Received: arms_goto "baila2"
+TaskPlanner: Can't find predefined position for left arm : "baila2"
+Cmd ArmsGoTo: Received: arms_goto "baila1"
+TaskPlanner: Can't find predefined position for left arm : "baila1"
+Cmd ArmsGoTo: Received: arms_goto "baila2"
+TaskPlanner: Can't find predefined position for left arm : "baila2"
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+Both arms reached predefined potition True
+Cmd LaGoTo: Received: la_goto "pointtray"
+LeftArm: Trying to reach articular position: { -0.2218, -0.6189, 0.7140, 1.4083, 0.2943, 1.6404, -0.6014 }
+LeftArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+Both arms reached predefined potition True
+Cmd LaGoTo: Received: la_goto "pointtray"
+LeftArm: Trying to reach articular position: { -0.2218, -0.6189, 0.7140, 1.4083, 0.2943, 1.6404, -0.6014 }
+LeftArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "baila1"
+TaskPlanner: Can't find predefined position for left arm : "baila1"
+Cmd ArmsGoTo: Received: arms_goto "baila2"
+TaskPlanner: Can't find predefined position for left arm : "baila2"
+Cmd ArmsGoTo: Received: arms_goto "baila1"
+TaskPlanner: Can't find predefined position for left arm : "baila1"
+Cmd ArmsGoTo: Received: arms_goto "baila2"
+TaskPlanner: Can't find predefined position for left arm : "baila2"
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Cmd LaGoTo: Received: la_goto "pointtray"
+Cmd LaGoTo: Left Arm is busy executing another command
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "baila1"
+TaskPlanner: Can't find predefined position for left arm : "baila1"
+Cmd ArmsGoTo: Received: arms_goto "baila2"
+TaskPlanner: Can't find predefined position for left arm : "baila2"
+Cmd ArmsGoTo: Received: arms_goto "baila1"
+TaskPlanner: Can't find predefined position for left arm : "baila1"
+Cmd ArmsGoTo: Received: arms_goto "baila2"
+TaskPlanner: Can't find predefined position for left arm : "baila2"
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "baila1"
+TaskPlanner: Can't find predefined position for left arm : "baila1"
+Cmd ArmsGoTo: Received: arms_goto "baila2"
+TaskPlanner: Can't find predefined position for left arm : "baila2"
+Cmd ArmsGoTo: Received: arms_goto "baila1"
+TaskPlanner: Can't find predefined position for left arm : "baila1"
+Cmd ArmsGoTo: Received: arms_goto "baila2"
+TaskPlanner: Can't find predefined position for left arm : "baila2"
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd RaGoTo: Received: ra_goto "heilHitler"
+RightArm: Trying to reach articular position: { 0.5000, 0.0000, 0.0000, 2.0000, 0.0000, 0.6400, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "showHead"
+RightArm: Trying to reach articular position: { 1.5000, 0.5000, -0.8000, 2.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "heilHitler"
+RightArm: Trying to reach articular position: { 0.5000, 0.0000, 0.0000, 2.0000, 0.0000, 0.6400, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "showHead"
+RightArm: Trying to reach articular position: { 1.5000, 0.5000, -0.8000, 2.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip "True" 1
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd LaOpenGrip: Received: la_opengrip
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_opengrip 0
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip "True" 1
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "heilHitler"
+RightArm: Trying to reach articular position: { 0.5000, 0.0000, 0.0000, 2.0000, 0.0000, 0.6400, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "showHead"
+RightArm: Trying to reach articular position: { 1.5000, 0.5000, -0.8000, 2.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "heilHitler"
+RightArm: Trying to reach articular position: { 0.5000, 0.0000, 0.0000, 2.0000, 0.0000, 0.6400, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "showLaser"
+RightArm: Trying to reach articular position: { 0.6000, 0.6000, -1.5000, 1.2000, -0.3000, 0.5000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd RaGoTo: Received: ra_goto "heilHitler"
+RightArm: Trying to reach articular position: { 0.5000, 0.0000, 0.0000, 2.0000, 0.0000, 0.6400, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "showHead"
+RightArm: Trying to reach articular position: { 1.5000, 0.5000, -0.8000, 2.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "heilHitler"
+RightArm: Trying to reach articular position: { 0.5000, 0.0000, 0.0000, 2.0000, 0.0000, 0.6400, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "showHead"
+RightArm: Trying to reach articular position: { 1.5000, 0.5000, -0.8000, 2.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip "True" 1
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd LaOpenGrip: Received: la_opengrip
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_opengrip 0
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip "True" 1
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "heilHitler"
+RightArm: Trying to reach articular position: { 0.5000, 0.0000, 0.0000, 2.0000, 0.0000, 0.6400, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "showHead"
+RightArm: Trying to reach articular position: { 1.5000, 0.5000, -0.8000, 2.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "heilHitler"
+RightArm: Trying to reach articular position: { 0.5000, 0.0000, 0.0000, 2.0000, 0.0000, 0.6400, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "showLaser"
+RightArm: Trying to reach articular position: { 0.6000, 0.6000, -1.5000, 1.2000, -0.3000, 0.5000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip "True" 1
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hipno"
+RightArm: Trying to reach articular position: { 1.6528, -0.1302, -0.0435, 1.7003, 0.0464, -1.5483, -0.0128 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hipnol"
+RightArm: Trying to reach articular position: { 1.7768, -0.0585, 0.0077, 1.5709, 0.7527, -1.5636, 0.7140 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hipnor"
+RightArm: Trying to reach articular position: { 1.7469, 0.0196, -0.0486, 1.5303, -0.7827, -1.5329, -0.6833 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hipnol"
+RightArm: Trying to reach articular position: { 1.7768, -0.0585, 0.0077, 1.5709, 0.7527, -1.5636, 0.7140 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hipnor"
+RightArm: Trying to reach articular position: { 1.7469, 0.0196, -0.0486, 1.5303, -0.7827, -1.5329, -0.6833 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hipnol"
+RightArm: Trying to reach articular position: { 1.7768, -0.0585, 0.0077, 1.5709, 0.7527, -1.5636, 0.7140 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hipnor"
+RightArm: Trying to reach articular position: { 1.7469, 0.0196, -0.0486, 1.5303, -0.7827, -1.5329, -0.6833 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hipnol"
+RightArm: Trying to reach articular position: { 1.7768, -0.0585, 0.0077, 1.5709, 0.7527, -1.5636, 0.7140 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hipnor"
+RightArm: Trying to reach articular position: { 1.7469, 0.0196, -0.0486, 1.5303, -0.7827, -1.5329, -0.6833 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hipnol"
+RightArm: Trying to reach articular position: { 1.7768, -0.0585, 0.0077, 1.5709, 0.7527, -1.5636, 0.7140 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hipnor"
+RightArm: Trying to reach articular position: { 1.7469, 0.0196, -0.0486, 1.5303, -0.7827, -1.5329, -0.6833 }
+RightArm: Position reached
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip "True" 1
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "handShake"
+RightArm: Trying to reach articular position: { 0.0294, -0.0692, -0.2073, 1.8040, -0.0923, 0.2401, -0.0179 }
+RightArm: Position reached
+Command ra_handmove received
+Command ra_hand_move params=handshake
+Command ra_handmove received
+Command ra_hand_move params=handshake1
+Cmd RaRelPos Received: ra_relpos "0.10 0.00 0.00 0.00 0.00 0.00 0.00"
+RightArm: Trying to reach articular position: { 0.0178, -0.1286, -0.0782, 1.3320, -0.2494, 0.7301, 0.0856 }
+RightArm: Position reached
+Cmd RaRelPos Received: ra_relpos "-0.10 0.00 0.00 0.00 0.00 0.00 0.00"
+RightArm: Trying to reach articular position: { 0.0158, -0.1446, -0.1205, 1.7996, -0.5164, 0.2769, 0.3640 }
+RightArm: Position reached
+Cmd RaRelPos Received: ra_relpos "0.10 0.00 0.00 0.00 0.00 0.00 0.00"
+RightArm: Trying to reach articular position: { 0.0163, -0.1284, -0.0778, 1.3281, -0.2486, 0.7355, 0.0844 }
+RightArm: Position reached
+Cmd RaRelPos Received: ra_relpos "-0.10 0.00 0.00 0.00 0.00 0.00 0.00"
+RightArm: Trying to reach articular position: { 0.0127, -0.1445, -0.1201, 1.7972, -0.5095, 0.2819, 0.3568 }
+RightArm: Position reached
+Command ra_handmove received
+Command ra_hand_move params=handshake
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd RaGoTo: Received: ra_goto "heilHitler"
+RightArm: Trying to reach articular position: { 0.5000, 0.0000, 0.0000, 2.0000, 0.0000, 0.6400, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "showHead"
+RightArm: Trying to reach articular position: { 1.5000, 0.5000, -0.8000, 2.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "heilHitler"
+RightArm: Trying to reach articular position: { 0.5000, 0.0000, 0.0000, 2.0000, 0.0000, 0.6400, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "showHead"
+RightArm: Trying to reach articular position: { 1.5000, 0.5000, -0.8000, 2.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip "True" 1
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd LaOpenGrip: Received: la_opengrip
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_opengrip 0
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip "True" 1
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "heilHitler"
+RightArm: Trying to reach articular position: { 0.5000, 0.0000, 0.0000, 2.0000, 0.0000, 0.6400, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "showHead"
+RightArm: Trying to reach articular position: { 1.5000, 0.5000, -0.8000, 2.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "heilHitler"
+RightArm: Trying to reach articular position: { 0.5000, 0.0000, 0.0000, 2.0000, 0.0000, 0.6400, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "showLaser"
+RightArm: Trying to reach articular position: { 0.6000, 0.6000, -1.5000, 1.2000, -0.3000, 0.5000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "baila1"
+TaskPlanner: Can't find predefined position for left arm : "baila1"
+Cmd ArmsGoTo: Received: arms_goto "baila2"
+TaskPlanner: Can't find predefined position for left arm : "baila2"
+Cmd ArmsGoTo: Received: arms_goto "baila1"
+TaskPlanner: Can't find predefined position for left arm : "baila1"
+Cmd ArmsGoTo: Received: arms_goto "baila2"
+TaskPlanner: Can't find predefined position for left arm : "baila2"
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd RaGoTo: Received: ra_goto "heilHitler"
+RightArm: Trying to reach articular position: { 0.5000, 0.0000, 0.0000, 2.0000, 0.0000, 0.6400, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "showHead"
+RightArm: Trying to reach articular position: { 1.5000, 0.5000, -0.8000, 2.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "heilHitler"
+RightArm: Trying to reach articular position: { 0.5000, 0.0000, 0.0000, 2.0000, 0.0000, 0.6400, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "showHead"
+RightArm: Trying to reach articular position: { 1.5000, 0.5000, -0.8000, 2.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip "True" 1
+Cmd ArmsGoTo: Received: arms_goto "showArm"
+LeftArm: Trying to reach articular position: { 0.0531, -0.3505, -0.7345, 0.6062, -0.3608, 1.0262, -0.3762 }
+RightArm: Trying to reach articular position: { -0.0348, 0.0260, 0.6372, 0.9218, -0.0201, 1.0160, 0.2585 }
+Both arms reached predefined potition True
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd LaOpenGrip: Received: la_opengrip
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+Cmd LaAbsPos: Sent response: la_opengrip 0
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip "True" 1
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Can't parse response from serial port COM5
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "heilHitler"
+RightArm: Trying to reach articular position: { 0.5000, 0.0000, 0.0000, 2.0000, 0.0000, 0.6400, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "showHead"
+RightArm: Trying to reach articular position: { 1.5000, 0.5000, -0.8000, 2.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "heilHitler"
+RightArm: Trying to reach articular position: { 0.5000, 0.0000, 0.0000, 2.0000, 0.0000, 0.6400, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "showLaser"
+RightArm: Trying to reach articular position: { 0.6000, 0.6000, -1.5000, 1.2000, -0.3000, 0.5000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Can't read from serial port COM6 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+BABAS.-> Files saved succesfully
+Can't read from serial port COM6 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+BABAS.-> Files saved succesfully
+Can't read from serial port COM6 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+BABAS.-> Files saved succesfully
+LeftArm: Can't parse response from serial port COM5
+BABAS.-> Files saved succesfully
+Can't read from serial port COM6 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+BABAS.-> Files saved succesfully
+Can't read from serial port COM6 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+BABAS.-> Files saved succesfully
+LeftArm: Can't parse response from serial port COM5
+BABAS.-> Files saved succesfully
+Can't read from serial port COM6 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+BABAS.-> Files saved succesfully
+LeftArm: Can't parse response from serial port COM5
+LeftArm: Can't parse response from serial port COM5
+BABAS.-> Files saved succesfully
+Can't read from serial port COM6 The operation has timed out.
+BABAS.-> Files saved succesfully
+Can't read from serial port COM5 The operation has timed out.
+BABAS.-> Files saved succesfully
+Can't read from serial port COM6 The operation has timed out.
+BABAS.-> Files saved succesfully
+Can't read from serial port COM5 The operation has timed out.
+BABAS.-> Files saved succesfully
+Can't read from serial port COM5 The operation has timed out.
+BABAS.-> Files saved succesfully
+Can't read from serial port COM6 The operation has timed out.
+BABAS.-> Files saved succesfully
+Cmd ArmsGoTo: Received: arms_goto "home"
+Can't read from serial port COM5 The operation has timed out.
+CM-700 Error
+Can't read from serial port COM6 The operation has timed out.
+CM-700 Error
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Can't read from serial port COM6 The operation has timed out.
+Can't read from serial port COM5 The operation has timed out.

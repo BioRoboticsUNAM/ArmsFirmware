@@ -1,0 +1,11 @@
+Z:\RoboCup\SourceCode\BetaTest\ManipulatorControl_gman\ManipulatorControl\bin\Debug\ManipulatorControl.exe
+Z:\RoboCup\SourceCode\BetaTest\ManipulatorControl_gman\ManipulatorControl\bin\Debug\ManipulatorControl.pdb
+Z:\RoboCup\SourceCode\BetaTest\ManipulatorControl_gman\ManipulatorControl\bin\Debug\Robotics.dll
+Z:\RoboCup\SourceCode\BetaTest\ManipulatorControl_gman\ManipulatorControl\bin\Debug\Robotics.xml
+Z:\RoboCup\SourceCode\BetaTest\ManipulatorControl_gman\ManipulatorControl\obj\Debug\ResolveAssemblyReference.cache
+Z:\RoboCup\SourceCode\BetaTest\ManipulatorControl_gman\ManipulatorControl\obj\Debug\ManipulatorControl.frmArmsControl.resources
+Z:\RoboCup\SourceCode\BetaTest\ManipulatorControl_gman\ManipulatorControl\obj\Debug\ManipulatorControl.Properties.Resources.resources
+Z:\RoboCup\SourceCode\BetaTest\ManipulatorControl_gman\ManipulatorControl\obj\Debug\ManipulatorControl.csproj.GenerateResource.Cache
+Z:\RoboCup\SourceCode\BetaTest\ManipulatorControl_gman\ManipulatorControl\obj\Debug\ManipulatorControl.exe
+Z:\RoboCup\SourceCode\BetaTest\ManipulatorControl_gman\ManipulatorControl\obj\Debug\ManipulatorControl.pdb
+Z:\RoboCup\SourceCode\BetaTest\ManipulatorControl_gman\ManipulatorControl\bin\Debug\ManipulatorControl.exe.config

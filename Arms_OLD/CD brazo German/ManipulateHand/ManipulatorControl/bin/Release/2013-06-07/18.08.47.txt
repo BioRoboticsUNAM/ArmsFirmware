@@ -1,0 +1,320 @@
+
+
+07/06/2013 06:08:47 p.m.
+Compiled 11.06.12 1:44 a.m.
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Client Connected
+LeftArm: Position reached
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+RightArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+Both arms reached predefined potition True
+Cmd RaReachable Received: ra_reachable "0.53 0.32 -0.47 1.57 0.98 0.00 -0.98"
+Cmd RaReachable Received: ra_reachable "0.45 0.35 -0.31 1.57 0.72 0.00 -0.72"
+Cmd RaReachable Received: ra_reachable "0.52 0.57 -0.47 1.57 0.69 0.00 -0.69"
+Cmd RaReachable Received: ra_reachable "0.49 0.32 -0.45 1.57 0.96 0.00 -0.96"
+Cmd RaReachable Received: ra_reachable "0.44 0.31 -0.31 1.57 0.78 0.00 -0.78"
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.243 -0.119 0.000 1.571 0.000 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.41 0.16 -0.20 1.57 0.62 0.00 -0.62"
+RightArm: Trying to reach articular position: { -0.2400, 0.0181, -0.7111, 1.4015, 0.2120, 0.3825, -0.3393 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.41 0.16 -0.20 1.57 0.62 0.00 -0.62" 1
+Cmd RaOpenGrip: Received: ra_opengrip "80"
+Cmd RaOpenGrip: Sent response: ra_opengrip "80" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.410 0.161 -0.201 1.570 0.620 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.42 0.18 -0.21 1.57 0.62 0.00 -0.62"
+RightArm: Trying to reach articular position: { -0.1724, -0.0182, -0.7191, 1.2988, 0.2254, 0.4105, -0.3341 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.42 0.18 -0.21 1.57 0.62 0.00 -0.62" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.420 0.181 -0.211 1.570 0.620 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.43 0.20 -0.22 1.57 0.64 0.00 -0.64"
+RightArm: Trying to reach articular position: { -0.0961, -0.0447, -0.7409, 1.1876, 0.2264, 0.4429, -0.3028 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.43 0.20 -0.22 1.57 0.64 0.00 -0.64" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.431 0.201 -0.221 1.570 0.640 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.44 0.21 -0.23 1.57 0.67 0.00 -0.67"
+RightArm: Trying to reach articular position: { -0.0410, -0.0676, -0.7701, 1.0821, 0.2129, 0.4875, -0.2656 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.44 0.21 -0.23 1.57 0.67 0.00 -0.67" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.441 0.211 -0.231 1.570 0.670 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.45 0.23 -0.24 1.57 0.66 0.00 -0.66"
+RightArm: Trying to reach articular position: { 0.0275, -0.1215, -0.7636, 0.9351, 0.2095, 0.5483, -0.2479 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.45 0.23 -0.24 1.57 0.66 0.00 -0.66" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.451 0.231 -0.241 1.570 0.660 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.46 0.24 -0.25 1.57 0.70 0.00 -0.70"
+RightArm: Trying to reach articular position: { 0.0910, -0.1520, -0.7977, 0.7984, 0.1887, 0.6122, -0.1950 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.46 0.24 -0.25 1.57 0.70 0.00 -0.70" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.241 -0.251 1.570 0.700 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.47 0.25 -0.26 1.57 0.69 0.00 -0.69"
+RightArm: Trying to reach articular position: { 0.1460, -0.2170, -0.7845, 0.6227, 0.1805, 0.7046, -0.1859 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.47 0.25 -0.26 1.57 0.69 0.00 -0.69" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.471 0.250 -0.260 1.570 0.690 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.48 0.26 -0.27 1.57 0.68 0.00 -0.68"
+RightArm: Trying to reach articular position: { 0.2225, -0.3010, -0.7610, 0.3777, 0.1689, 0.8388, -0.1706 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.48 0.26 -0.27 1.57 0.68 0.00 -0.68" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.260 -0.270 1.570 0.680 0.000 0.000" 1
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.480 0.260 -0.270 1.570 0.680 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.38 0.26 -0.27 1.57 0.65 0.00 -0.65"
+RightArm: Trying to reach articular position: { 0.0665, -0.1593, -0.7985, 1.2244, 0.6899, 0.2508, -0.7375 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.38 0.26 -0.27 1.57 0.65 0.00 -0.65" 1
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "deliver"
+RightArm: Trying to reach articular position: { 0.3791, 0.0025, -0.2687, 1.0260, -0.2760, 0.4120, 0.2000 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip "100"
+Cmd RaOpenGrip: Sent response: ra_opengrip "100" 1
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip "20"
+Cmd RaOpenGrip: Sent response: ra_opengrip "20" 1
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+RightArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+Both arms reached predefined potition True
+Cmd RaReachable Received: ra_reachable "0.53 0.53 -0.18 1.57 0.32 0.00 -0.32"
+Cmd RaReachable Received: ra_reachable "0.51 0.70 -0.04 1.57 0.05 0.00 -0.05"
+Cmd RaReachable Received: ra_reachable "0.57 1.03 0.37 1.57 -0.35 0.00 0.35"
+Cmd RaReachable Received: ra_reachable "0.59 0.94 0.26 1.57 -0.27 0.00 0.27"
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+RightArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+RightArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+Cmd LaOpenGrip: Received: la_opengrip
+Cmd LaAbsPos: Sent response: la_opengrip 1
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+RightArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+RightArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+Both arms reached predefined potition True
+Cmd RaReachable Received: ra_reachable "0.52 0.32 0.19 1.57 -0.53 0.00 0.53"
+Cmd RaReachable Received: ra_reachable "0.43 0.34 -0.01 1.57 0.03 0.00 -0.03"
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.243 -0.119 0.000 1.571 0.000 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.40 0.17 -0.01 1.57 0.03 0.00 -0.03"
+RightArm: Trying to reach articular position: { -0.4303, 0.0039, -0.0353, 1.5838, 0.0091, 0.4165, -0.0195 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.40 0.17 -0.01 1.57 0.03 0.00 -0.03" 1
+Cmd RaOpenGrip: Received: ra_opengrip "80"
+Cmd RaOpenGrip: Sent response: ra_opengrip "80" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.400 0.170 -0.010 1.570 0.030 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.41 0.19 -0.01 1.57 0.01 0.00 -0.01"
+RightArm: Trying to reach articular position: { -0.3639, -0.0139, -0.0221, 1.5096, 0.0140, 0.4241, -0.0335 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.41 0.19 -0.01 1.57 0.01 0.00 -0.01" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.410 0.191 -0.010 1.570 0.010 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.42 0.21 -0.01 1.57 0.01 0.00 -0.01"
+RightArm: Trying to reach articular position: { -0.2969, -0.0138, -0.0213, 1.4283, 0.0151, 0.4385, -0.0330 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.42 0.21 -0.01 1.57 0.01 0.00 -0.01" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.421 0.211 -0.010 1.570 0.010 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.43 0.23 -0.01 1.57 0.01 0.00 -0.01"
+RightArm: Trying to reach articular position: { -0.2294, -0.0138, -0.0206, 1.3388, 0.0155, 0.4605, -0.0320 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.43 0.23 -0.01 1.57 0.01 0.00 -0.01" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.431 0.232 -0.010 1.570 0.010 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.44 0.25 -0.01 1.57 0.02 0.00 -0.02"
+RightArm: Trying to reach articular position: { -0.1607, -0.0061, -0.0274, 1.2405, 0.0130, 0.4901, -0.0218 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.44 0.25 -0.01 1.57 0.02 0.00 -0.02" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.441 0.252 -0.010 1.570 0.020 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.45 0.27 -0.01 1.57 0.02 0.00 -0.02"
+RightArm: Trying to reach articular position: { -0.0902, -0.0066, -0.0270, 1.1314, 0.0125, 0.5286, -0.0198 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.45 0.27 -0.01 1.57 0.02 0.00 -0.02" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.451 0.272 -0.010 1.570 0.020 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.46 0.29 -0.01 1.57 0.03 0.00 -0.03"
+RightArm: Trying to reach articular position: { -0.0165, -0.0004, -0.0350, 1.0095, 0.0092, 0.5770, -0.0087 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.46 0.29 -0.01 1.57 0.03 0.00 -0.03" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.292 -0.010 1.570 0.030 0.000 0.000" 1
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.461 0.292 -0.010 1.570 0.030 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.36 0.29 -0.01 1.57 0.04 0.00 -0.04"
+RightArm: Trying to reach articular position: { -0.1213, 0.0130, -0.0414, 1.6118, 0.0336, 0.0800, -0.0255 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.36 0.29 -0.01 1.57 0.04 0.00 -0.04" 1
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "deliver"
+RightArm: Trying to reach articular position: { 0.3791, 0.0025, -0.2687, 1.0260, -0.2760, 0.4120, 0.2000 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip "100"
+Cmd RaOpenGrip: Sent response: ra_opengrip "100" 1
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip "20"
+Cmd RaOpenGrip: Sent response: ra_opengrip "20" 1
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+RightArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+LeftArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+RightArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+Both arms reached predefined potition True
+Cmd RaReachable Received: ra_reachable "0.53 0.36 -0.36 1.57 0.78 0.00 -0.78"
+Cmd RaReachable Received: ra_reachable "0.42 0.90 0.08 1.57 -0.09 0.00 0.09"
+Cmd RaReachable Received: ra_reachable "0.49 0.74 -0.30 1.57 0.38 0.00 -0.38"
+Client Connected

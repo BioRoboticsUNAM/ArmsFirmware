@@ -1,0 +1,325 @@
+
+
+12/06/2013 07:27:27 p.m.
+Compiled 11.06.12 1:44 a.m.
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+deliver: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+deliver: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Client Connected
+LeftArm: Position reached
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Shared variable batAlert created
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Can't write batAlert
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd LaOpenGrip: Received: la_opengrip
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd LaAbsPos: Sent response: la_opengrip 1
+batAlert shared variable succesfully written
+Cmd LaAbsPos: Received: la_abspos "0.44 0.60 0.53 1.42 0.22 1.44 0.00"
+Cmd RaAbsPos: Received: ra_abspos "0.45 0.61 -0.57 1.26 -0.02 -1.68 0.00"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.45 0.61 -0.57 1.26 -0.02 -1.68 0.00" 0
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.44 0.60 0.53 1.42 0.22 1.44 0.00" 0
+Cmd LaAbsPos: Received: la_abspos "0.42 0.60 0.53 1.42 0.22 1.44 0.00"
+Can't calculate inverse kinematics: Out of work space
+Cmd LaAbsPos: Sent response: la_abspos "0.42 0.60 0.53 1.42 0.22 1.44 0.00" 0
+Cmd RaAbsPos: Received: ra_abspos "0.75 0.61 -0.50 1.42 0.22 1.44 0.00"
+Can't calculate inverse kinematics: Out of work space
+Cmd RaAbsPos: Sent response: ra_abspos "0.75 0.61 -0.50 1.42 0.22 1.44 0.00" 0
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Both arms reached predefined potition True
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Cmd ArmsGoTo: Received: arms_goto "home"
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+batAlert shared variable succesfully written
+Both arms reached predefined potition True
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written

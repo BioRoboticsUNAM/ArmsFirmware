@@ -1,0 +1,11 @@
+
+
+21/10/2013 05:41:38 p.m.
+Execution Started 2013-10-21 17:41:38
+HeadManager: Succesfully loaded settings from file
+Serial Port Manager: Erase Buffer error [Serial Port is not Ready]
+Head: Initialization completed succesfully...
+TaskManager: Succesfully started
+Shared Variable hd_pos created succsfully
+HeadManager: Succesfully started
+Shared Variable hd_pos created succsfully

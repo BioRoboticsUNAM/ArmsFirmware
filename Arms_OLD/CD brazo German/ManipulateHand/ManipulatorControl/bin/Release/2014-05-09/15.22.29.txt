@@ -1,0 +1,136 @@
+
+
+09/05/2014 03:22:29 p.m.
+Compiled 11.06.12 1:44 a.m.
+Invalid servo angles: Out of servo range
+baila2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+baila3: Invalid X value. Out of work space
+newPredefPos3: Invalid Z value. Out of work space
+showArm: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+baila1: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+baila3: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+baila3: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+deliver: Invalid Y value. Out of work space
+deliver: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+extended: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+extended: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+extended: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+hello: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hello1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hello1: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+hello1: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+hello2: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+hello2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hello2: Invalid Z value. Out of work space
+hipno: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hipno: Invalid Roll value. Out of work space
+hipnol: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hipnol: Invalid Roll value. Out of work space
+hipnor: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hipnor: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+newPredefPos16: Invalid X value. Out of work space
+newPredefPos17: Invalid X value. Out of work space
+newPredefPos18: Invalid X value. Out of work space
+newPredefPos19: Invalid X value. Out of work space
+newPredefPos20: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos21: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos21: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos21: Invalid Z value. Out of work space
+newPredefPos3: Invalid Roll value. Out of work space
+newPredefPos4: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos5: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos6: Invalid Yaw value. Out of work space
+pickbox: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+test1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+test1: Invalid Y value. Out of work space
+test2: Invalid Y value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Client Connected
+LeftArm: Position reached
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+LeftArm: Position reached
+Cmd LaGoTo: Received: la_goto "home" @1
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+LeftArm: Position reached
+Cmd LaOpenGrip: Received: la_opengrip @1
+Cmd LaAbsPos: Sent response: la_opengrip 1 @1
+Cmd LaOpenGrip: Received: la_opengrip @1
+Cmd LaAbsPos: Sent response: la_opengrip 1 @1
+Client Connected

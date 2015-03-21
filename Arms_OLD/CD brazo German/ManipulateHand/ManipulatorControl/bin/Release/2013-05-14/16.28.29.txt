@@ -1,0 +1,355 @@
+
+
+14/05/2013 04:28:29 p.m.
+Compiled 11.06.12 1:44 a.m.
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+zero: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+zero: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+heilHitler: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+heilHitler: Invalid X value. Out of work space
+gripperLeft: Invalid X value. Out of work space
+gripperRight: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Client Connected
+Client Connected
+Shared Vars Loading Error: No response from blackboard while requesting variable list (timeout?)
+Client Connected
+LeftArm: Position reached
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "deliver"
+RightArm: Trying to reach articular position: { 0.3791, 0.0025, -0.2687, 0.7260, -0.2760, 0.4120, -0.3660 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip 1
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+Can't read from serial port COM6 The operation has timed out.
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+Can't read from serial port COM5 The operation has timed out.
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+Can't read from serial port COM6 The operation has timed out.
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+Can't read from serial port COM5 The operation has timed out.
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+Can't parse response from microcontroller
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "deliver"
+RightArm: Trying to reach articular position: { 0.3791, 0.0025, -0.2687, 0.7260, -0.2760, 0.4120, -0.3660 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip 1
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "deliver"
+RightArm: Trying to reach articular position: { 0.3791, 0.0025, -0.2687, 0.7260, -0.2760, 0.4120, -0.3660 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip 1
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+Can't read from serial port COM6 The operation has timed out.
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+Can't parse response from microcontroller
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+Can't parse response from microcontroller
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+Can't parse response from microcontroller
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+Can't parse response from microcontroller
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "deliver"
+RightArm: Trying to reach articular position: { 0.3791, 0.0025, -0.2687, 0.7260, -0.2760, 0.4120, -0.3660 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip
+Cmd RaOpenGrip: Sent response: ra_opengrip 1
+Cmd RaCloseGrip: Received: ra_closegrip
+Cmd RaCloseGrip: Sent response: ra_closegrip 1
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+Can't read from serial port COM6 The operation has timed out.
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+Can't read from serial port COM5 The operation has timed out.
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+Can't read from serial port COM6 The operation has timed out.
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+Can't parse response from microcontroller
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { -0.5663, 0.0217, -0.0128, 0.5603, -0.0048, 0.0026, -0.0128 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { -0.5576, 0.0018, -0.1100, 0.5164, -0.0026, 0.0179, -0.0128 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "zero"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "zero"
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+LeftArm: Position reached
+BABAS.-> Files saved succesfully
+BABAS.-> Files saved succesfully
+BABAS.-> Files saved succesfully
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+LeftArm: Position reached
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+LeftArm: Position reached
+BABAS.-> Files saved succesfully
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "deliver"
+RightArm: Trying to reach articular position: { 0.3791, 0.0025, -0.2687, 0.7260, -0.2760, 0.4120, -0.3660 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "deliver"
+RightArm: Trying to reach articular position: { 0.3791, 0.0025, -0.2687, 0.9260, -0.2760, 0.4120, -0.3660 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "deliver"
+LeftArm: Trying to reach articular position: { 0.3557, -0.2056, 0.2022, 0.6543, 0.0333, 0.4786, -0.0793 }
+LeftArm: Position reached
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+LeftArm: Position reached
+Cmd RaGoTo: Received: ra_goto "deliver"
+RightArm: Trying to reach articular position: { 0.3791, 0.0025, -0.2687, 1.0260, -0.2760, 0.4120, -0.3660 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "deliver"
+RightArm: Trying to reach articular position: { 0.3791, 0.0025, -0.2687, 1.0260, -0.2760, 0.4120, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "deliver"
+RightArm: Trying to reach articular position: { 0.3791, 0.0025, -0.2687, 1.0260, -0.2760, 0.4120, -0.2000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "deliver"
+RightArm: Trying to reach articular position: { 0.3791, 0.0025, -0.2687, 1.0260, -0.2760, 0.4120, 0.2000 }
+RightArm: Position reached
+BABAS.-> Files saved succesfully
+BABAS.-> Files saved succesfully
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd LaGoTo: Received: la_goto "home"
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+LeftArm: Position reached
+Client Connected

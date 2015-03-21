@@ -1,0 +1,59 @@
+
+
+06/06/2013 07:39:55 p.m.
+HeadManager: Succesfully loaded settings from file
+Serial Port Manager: Erase Buffer error [Serial Port is not Ready]
+Serial Port Manager: Serial Transmission Problem
+Servo 5: Set Speed Error
+Head: Couldn't set Max Speeds
+TaskManager: Succesfully started
+Shared Variable hd_pos created succsfully
+HeadManager: Succesfully started
+Execution Started 2013-06-06 19:39:56
+Shared Variable hd_pos created succsfully
+Serial Port Manager: Erase Buffer error [Serial Port is not Ready]
+Serial Port Manager: Serial Transmission Problem
+Servo 5: Set Speed Error
+Head: Couldn't set Max Speeds
+Serial Port Manager: Erase Buffer error [Serial Port is not Ready]
+Serial Port Manager: Serial Transmission Problem
+Servo 5: Set Speed Error
+Head: Couldn't set Max Speeds
+Serial Port Manager: Erase Buffer error [Serial Port is not Ready]
+Serial Port Manager: Serial Transmission Problem
+Servo 5: Set Speed Error
+Head: Couldn't set Max Speeds
+Serial Port Manager: Erase Buffer error [Serial Port is not Ready]
+Serial Port Manager: Serial Transmission Problem
+Servo 5: Set Speed Error
+Head: Couldn't set Max Speeds
+Serial Port Manager: Erase Buffer error [Serial Port is not Ready]
+Serial Port Manager: Serial Transmission Problem
+Servo 5: Set Speed Error
+Head: Couldn't set Max Speeds
+Serial Port Manager: Erase Buffer error [Serial Port is not Ready]
+Serial Port Manager: Serial Transmission Problem
+Servo 5: Set Speed Error
+Head: Couldn't set Max Speeds
+Serial Port Manager: Erase Buffer error [Serial Port is not Ready]
+Serial Port Manager: Serial Transmission Problem
+Servo 5: Set Speed Error
+Head: Couldn't set Max Speeds
+Serial Port Manager: Erase Buffer error [Serial Port is not Ready]
+Serial Port Manager: Serial Transmission Problem
+Servo 5: Set Speed Error
+Head: Couldn't set Max Speeds
+Serial Port Manager: Erase Buffer error [Serial Port is not Ready]
+Serial Port Manager: Serial Transmission Problem
+Servo 5: Set Speed Error
+Head: Couldn't set Max Speeds
+Serial Port Manager: Erase Buffer error [Serial Port is not Ready]
+Serial Port Manager: Serial Transmission Problem
+Servo 5: Set Speed Error
+Head: Couldn't set Max Speeds
+Serial Port Manager: Erase Buffer error [Serial Port is not Ready]
+Serial Port Manager: Serial Transmission Problem
+Servo 5: Set Speed Error
+Head: Couldn't set Max Speeds
+Serial Port Manager: Erase Buffer error [Serial Port is not Ready]
+Serial Port Manager: Serial Transmission Problem

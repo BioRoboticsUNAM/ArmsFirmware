@@ -1,0 +1,403 @@
+
+
+31/05/2013 06:59:59 p.m.
+Compiled 11.06.12 1:44 a.m.
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Roll value. Out of work space
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+Predefined Position repeated name: dance2
+Predefined Position repeated name: dance1
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+Predefined Position repeated name: dance2
+Predefined Position repeated name: dance1
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Client Connected
+Client Connected
+Shared Vars Loading Error: No response from blackboard while requesting variable list (timeout?)
+Client Connected
+LeftArm: Position reached
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+RightArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+Both arms reached predefined potition True
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "deliver"
+RightArm: Trying to reach articular position: { 0.3791, 0.0025, -0.2687, 1.0260, -0.2760, 0.4120, 0.2000 }
+RightArm: Position reached
+Cmd RaOpenGrip: Received: ra_opengrip "100"
+Cmd RaOpenGrip: Sent response: ra_opengrip "100" 1
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+Can't read from serial port COM6 The operation has timed out.
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Can't parse response from microcontroller
+Cmd RaOpenGrip: Received: ra_opengrip "20"
+Cmd RaOpenGrip: Sent response: ra_opengrip "20" 1
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+RightArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+Both arms reached predefined potition True
+Cmd ArmsGoTo: Received: arms_goto "standby"
+LeftArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+RightArm: Trying to reach articular position: { -0.7690, 0.0000, 0.0000, 1.6728, 0.0000, 0.0462, 0.0000 }
+Can't read from serial port COM6 The operation has timed out.
+LeftArm: Can't parse response from serial port COM5
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command
+Cmd ArmsGoTo: Received: arms_goto "standby"
+Cmd ArmsGoTo: Arms busy executing another command

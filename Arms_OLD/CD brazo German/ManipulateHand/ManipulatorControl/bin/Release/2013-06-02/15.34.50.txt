@@ -1,0 +1,163 @@
+
+
+02/06/2013 03:34:50 p.m.
+Compiled 11.06.12 1:44 a.m.
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+Predefined Position repeated name: dance2
+Predefined Position repeated name: dance1
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+Predefined Position repeated name: dance2
+Predefined Position repeated name: dance1
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance2: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Client Connected
+LeftArm: Position reached
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd ArmsState: Received: arms_state
+LA ErrorState 0: OK 1: OK 2: OK 3: OK 4: OK 5: OK 6: OK 7: OK 10: OK  LA ErrorState 0: OK 1: OK 2: OK 3: OK 4: OK 5: OK 6: OK 7: OK 10: OK 
+Cmd RaReachable Received: ra_reachable "0.35 0.39 -0.16 1.57 0.39 0.00 -0.39"
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.243 -0.119 0.000 1.571 0.000 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.34 0.21 -0.10 1.57 0.31 0.00 -0.31"
+RightArm: Trying to reach articular position: { -0.3092, 0.0458, -0.3636, 1.8236, 0.7396, 0.0747, -0.8055 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.34 0.21 -0.10 1.57 0.31 0.00 -0.31" 1
+Cmd RaOpenGrip: Received: ra_opengrip "80"
+Cmd RaOpenGrip: Sent response: ra_opengrip "80" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.340 0.208 -0.099 1.570 0.310 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.35 0.23 -0.11 1.57 0.33 0.00 -0.33"
+RightArm: Trying to reach articular position: { -0.2361, 0.0374, -0.3914, 1.7360, 0.7046, 0.0917, -0.7579 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.35 0.23 -0.11 1.57 0.33 0.00 -0.33" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.350 0.229 -0.109 1.570 0.330 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.35 0.25 -0.12 1.57 0.37 0.00 -0.37"
+RightArm: Trying to reach articular position: { -0.1608, 0.0462, -0.4320, 1.6922, 0.9577, 0.0778, -0.9816 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.35 0.25 -0.12 1.57 0.37 0.00 -0.37" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.350 0.249 -0.120 1.570 0.370 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.35 0.27 -0.13 1.57 0.33 0.00 -0.33"
+RightArm: Trying to reach articular position: { -0.1101, -0.0147, -0.4222, 1.6337, 1.1849, 0.0956, -1.2415 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.35 0.27 -0.13 1.57 0.33 0.00 -0.33" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.350 0.270 -0.130 1.570 0.330 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.35 0.29 -0.14 1.57 0.32 0.00 -0.32"
+RightArm: Trying to reach articular position: { -0.0500, -0.0491, -0.4287, 1.5705, 1.2831, 0.1110, -1.3469 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.35 0.29 -0.14 1.57 0.32 0.00 -0.32" 1
+Cmd RaAbsPos: Received: ra_abspos
+Cmd RaAbsPos: Sent response: ra_abspos "0.350 0.290 -0.140 1.570 0.320 0.000 0.000" 1
+Cmd RaAbsPos: Received: ra_abspos "0.35 0.31 -0.15 1.57 0.30 0.00 -0.30"
+RightArm: Trying to reach articular position: { 0.0078, -0.0914, -0.4263, 1.4983, 1.2909, 0.1333, -1.3688 }
+RightArm: Position reached
+Cmd RaAbsPos: Sent response: ra_abspos "0.35 0.31

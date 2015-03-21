@@ -1,0 +1,201 @@
+
+
+11/06/2013 03:53:26 p.m.
+Compiled 11.06.12 1:44 a.m.
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showA: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showChestKinect: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showLaser: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+heilHitler: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showArm: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Client Connected
+Client Connected
+Shared Vars Loading Error: No response from blackboard while requesting variable list (timeout?)
+Client Connected
+LeftArm: Position reached
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Shared variable batAlert created
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+LeftArm: Position reached
+Cmd LaAbsPos: Received: la_abspos
+Cmd LaAbsPos: Sent response: la_abspos "0.243 -0.119 0.000 1.571 0.000 0.000 0.000" 1
+Cmd LaReachable Received: la_reachable "0.16 0.37 -0.16 1.57 0.32 0.00 -0.32"
+Cmd LaAbsPos: Received: la_abspos "0.16 0.37 -0.16 1.57 0.32 0.00 -0.32"
+batAlert shared variable succesfully written
+LeftArm: Trying to reach articular position: { 0.3954, -0.1221, -0.5142, 1.9739, -0.2678, -0.8436, 0.2744 }
+LeftArm: Position reached
+Cmd LaAbsPos: Sent response: la_abspos "0.16 0.37 -0.16 1.57 0.32 0.00 -0.32" 1
+batAlert shared variable succesfully written
+Cmd LaGoTo: Received: la_goto "navigation"
+LeftArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+batAlert shared variable succesfully written
+LeftArm: Position reached
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+LeftArm: Can't parse response from serial port COM5
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+LeftArm: Can't parse response from serial port COM5
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+LeftArm: Can't parse response from serial port COM5
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+LeftArm: Can't parse response from serial port COM5
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The operation has timed out.
+batAlert shared variable succesfully written
+Can't read from serial port COM5 The operation has timed out.
+Can't read from serial port COM6 The I/O operation has been aborted because of either a thread exit or an application request.
+
+batAlert shared variable succesfully written
+LeftArm: Can't open serial portCOM5
+RightArm: Can't open serial portCOM6
+batAlert shared variable succesfully written
+LeftArm: Can't open serial portCOM5
+RightArm: Can't open serial portCOM6
+batAlert shared variable succesfully written
+LeftArm: Can't open serial portCOM5
+RightArm: Can't open serial portCOM6
+batAlert shared variable succesfully written
+LeftArm: Can't open serial portCOM5
+RightArm: Can't open serial portCOM6
+batAlert shared variable succesfully written
+LeftArm: Can't open serial portCOM5
+RightArm: Can't open serial portCOM6
+batAlert shared variable succesfully written

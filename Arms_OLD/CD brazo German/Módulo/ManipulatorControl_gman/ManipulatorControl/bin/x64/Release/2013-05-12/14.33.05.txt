@@ -1,0 +1,15 @@
+
+
+12/05/2013 02:33:05 p.m.
+Compiled 11.06.12 1:44 a.m.
+Cannot load left predefined positions from file: LeftPositions.xml
+Cannot load right predefined positions from file: LeftPositions.xml
+Cannot load left predefined movements from file: LeftMovements.xml
+Cannot load right predefined movements from file: LeftMovements.xml
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Client Connected
+Client Connected
+Shared Vars Loading Error: No response from blackboard while requesting variable list (timeout?)
+Client Connected
+Can't read from serial port COM6 The operation has timed out.
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }

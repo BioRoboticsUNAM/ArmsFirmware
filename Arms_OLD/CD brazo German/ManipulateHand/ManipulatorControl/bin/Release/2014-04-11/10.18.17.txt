@@ -1,0 +1,215 @@
+
+
+11/04/2014 10:18:17 a.m.
+Compiled 11.06.12 1:44 a.m.
+Invalid servo angles: Out of servo range
+baila2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+baila3: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+deliver: Invalid Y value. Out of work space
+deliver: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+escort: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+extended: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+extended: Invalid Z value. Out of work space
+hello: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hello1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hello1: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+hello1: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+hello2: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+hello2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hello2: Invalid Z value. Out of work space
+hipno: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hipno: Invalid Roll value. Out of work space
+hipnol: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hipnol: Invalid Roll value. Out of work space
+hipnor: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hipnor: Invalid Roll value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+navigation: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hello2: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+hello2: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hello2: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+hello1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+hello1: Invalid Z value. Out of work space
+Invalid servo angles: Out of servo range
+hello1: Invalid Pitch value. Out of work space
+newPredefPos16: Invalid X value. Out of work space
+newPredefPos17: Invalid X value. Out of work space
+newPredefPos18: Invalid X value. Out of work space
+newPredefPos19: Invalid X value. Out of work space
+newPredefPos20: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos21: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos21: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos21: Invalid Z value. Out of work space
+newPredefPos3: Invalid Roll value. Out of work space
+newPredefPos4: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos5: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+newPredefPos6: Invalid Yaw value. Out of work space
+newPredefPos9: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showC: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showHead: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showHeadKinect: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showM: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Roll value. Out of work space
+Invalid servo angles: Out of servo range
+showW: Invalid Pitch value. Out of work space
+Invalid servo angles: Out of servo range
+test1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+test1: Invalid Y value. Out of work space
+test2: Invalid Y value. Out of work space
+Predefined Position repeated name: hello2
+Predefined Position repeated name: hello1
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid X value. Out of work space
+Invalid servo angles: Out of servo range
+dance1: Invalid Y value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+home: Invalid X value. Out of work space
+LeftArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+Client Connected
+Client Connected
+Shared Vars Loading Error: No response from blackboard while requesting variable list (timeout?)
+Client Connected
+LeftArm: Position reached
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hello"
+RightArm: Trying to reach articular position: { 0.5213, -0.0318, 0.1356, 2.1875, -0.3961, 0.2447, -1.1439 }
+RightArm: Position reached
+Command ra_handmove received
+Command ra_hand_move params=greeting
+Cmd RaGoTo: Received: ra_goto "hello1"
+RightArm: Trying to reach articular position: { 0.6315, 0.3425, -0.4478, 2.1767, -0.8225, 0.2048, -1.0262 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hello2"
+RightArm: Trying to reach articular position: { 0.8240, -0.0639, 0.4069, 1.9727, 0.0396, 0.1404, -1.3640 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hello1"
+RightArm: Trying to reach articular position: { 0.6315, 0.3425, -0.4478, 2.1767, -0.8225, 0.2048, -1.0262 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hello2"
+RightArm: Trying to reach articular position: { 0.8240, -0.0639, 0.4069, 1.9727, 0.0396, 0.1404, -1.3640 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hello"
+RightArm: Trying to reach articular position: { 0.5213, -0.0318, 0.1356, 2.1875, -0.3961, 0.2447, -1.1439 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hello"
+RightArm: Trying to reach articular position: { 0.5213, -0.0318, 0.1356, 2.1875, -0.3961, 0.2447, -1.1439 }
+RightArm: Position reached
+Command ra_handmove received
+Command ra_hand_move params=greeting
+Cmd RaGoTo: Received: ra_goto "hello1"
+RightArm: Trying to reach articular position: { 0.6315, 0.3425, -0.4478, 2.1767, -0.8225, 0.2048, -1.0262 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hello2"
+RightArm: Trying to reach articular position: { 0.8240, -0.0639, 0.4069, 1.9727, 0.0396, 0.1404, -1.3640 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hello1"
+RightArm: Trying to reach articular position: { 0.6315, 0.3425, -0.4478, 2.1767, -0.8225, 0.2048, -1.0262 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hello2"
+RightArm: Trying to reach articular position: { 0.8240, -0.0639, 0.4069, 1.9727, 0.0396, 0.1404, -1.3640 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hello"
+RightArm: Trying to reach articular position: { 0.5213, -0.0318, 0.1356, 2.1875, -0.3961, 0.2447, -1.1439 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hello"
+RightArm: Trying to reach articular position: { 0.5213, -0.0318, 0.1356, 2.1875, -0.3961, 0.2447, -1.1439 }
+RightArm: Position reached
+Command ra_handmove received
+Command ra_hand_move params=greeting
+Cmd RaGoTo: Received: ra_goto "hello1"
+RightArm: Trying to reach articular position: { 0.6315, 0.3425, -0.4478, 2.1767, -0.8225, 0.2048, -1.0262 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hello2"
+RightArm: Trying to reach articular position: { 0.8240, -0.0639, 0.4069, 1.9727, 0.0396, 0.1404, -1.3640 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hello1"
+RightArm: Trying to reach articular position: { 0.6315, 0.3425, -0.4478, 2.1767, -0.8225, 0.2048, -1.0262 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hello2"
+RightArm: Trying to reach articular position: { 0.8240, -0.0639, 0.4069, 1.9727, 0.0396, 0.1404, -1.3640 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "hello"
+RightArm: Trying to reach articular position: { 0.5213, -0.0318, 0.1356, 2.1875, -0.3961, 0.2447, -1.1439 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "navigation"
+RightArm: Trying to reach articular position: { -1.4070, 0.0000, 0.0000, 1.9072, 0.0000, 1.0707, 0.0000 }
+RightArm: Position reached
+Cmd RaGoTo: Received: ra_goto "home"
+RightArm: Trying to reach articular position: { 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000 }
+RightArm: Position reached
